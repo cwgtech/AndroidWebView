@@ -11,6 +11,8 @@ Temp
 *.sln
 *.userprefs
 *.apk
+.vs
+UnityPackageManager
 obj
 Screenshots
 

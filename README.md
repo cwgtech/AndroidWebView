@@ -8,7 +8,7 @@ The WebView uses a default WebViewClient that allows links to be opened inside t
 
 The video for this tutorial can be found at:
 
-https://youtu.be/
+https://youtu.be/r1hLo5C50wE
 
 This tutorial was made with Unity 2017.3.0f3, Visual Studio Community for Mac 7.4, and Android Studio 3.0.1
 
