@@ -1,0 +1,17 @@
+!*.zip
+!*.dll
+!*.jar
+!*.java
+.DS_Store
+Library
+Temp
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+*.apk
+obj
+Screenshots
+
+
